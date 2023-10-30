@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+ }
+ 
+ .top {
+    padding-top: 40px;
+ }
+ 
+ /*.top-header {
+ }
+ 
+ .top-link {
+ }
+ 
+ .header-link {
+ }*/
+ 
+ .top-content {
+    margin-top: 84px;
+    margin-bottom: 162px;
+ }
+ 
+ /*.top-content-text {
+ }*/
+ 
+ .title {
+    margin-bottom: 17px;
+ }
+ 
+ /*.text {
+ }*/
+ 
+ .top-button {
+    margin-top: 37px;
+ }
+ 
+ /*.button {
+ }*/
+ 
+ .blok-logos {
+    padding-top: 97px;
+    padding-bottom: 96px;
+ }
+ 
+ /*.logo {
+ }*/
